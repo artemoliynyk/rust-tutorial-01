@@ -6,6 +6,5 @@ fn main() {
     // hello_crate::run();
     // basics::operations();
     // basics::allocations();
-    // basics::ownership();
     ownership::main();
 }
