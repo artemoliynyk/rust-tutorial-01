@@ -1,5 +1,11 @@
-mod mods;
+// mod hello_crate;
+// mod basics;
+mod ownership;
 
 fn main() {
-    mods::hello_crate::run();
+    // hello_crate::run();
+    // basics::operations();
+    // basics::allocations();
+    // basics::ownership();
+    ownership::main();
 }
